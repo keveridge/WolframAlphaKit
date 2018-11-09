@@ -55,7 +55,7 @@ jsonPath _(optional)_	| _The JSON path query used to return the result from the 
 
 You then run the WolframAlphaKit shortcut with the Dictionary as the input:
 
-
+![Dictionary as input](https://i.imgur.com/oS844iH.png)
 
 It returns a dictionary with `exitCode` and `result` values.
 
